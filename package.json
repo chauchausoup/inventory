@@ -1,0 +1,25 @@
+{
+  "name": "inventory_server",
+  "version": "0.0.1",
+  "description": "Its a simple server that has its endpoints for interaction.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chauchausoup/inventory.git"
+  },
+  "keywords": [
+    "node",
+    "database",
+    "API"
+  ],
+  "author": "Krishna Dhakal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chauchausoup/inventory/issues"
+  },
+  "homepage": "https://github.com/chauchausoup/inventory#readme"
+}
