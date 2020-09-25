@@ -1,33 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T08:41:51.580Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XIfVNYL1IJgXTqg9-V_v" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T08:48:18.376Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="j4UWh0aYi_Llq1ZDb7VW" version="13.7.5" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="1370" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Papper form fill up&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Papper form fill up&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="180" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Attaching Photo and Gov Ids&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Attaching Photo and Gov Ids&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="180" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-4" value="&lt;font size=&quot;3&quot;&gt;Validate the photo&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-4" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Validate the photo&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="380" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <object label="Actor" id="ImEEoc-BZ4plzD38c9AY-7">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
             <mxGeometry x="70" y="500" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-12" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Supervisor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-12" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Supervisor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="590" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-13" value="&lt;font style=&quot;font-size: 24px&quot;&gt;User&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-13" value="&lt;font style=&quot;font-size: 24px&quot;&gt;User&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="120" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-4">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="ImEEoc-BZ4plzD38c9AY-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="550" as="sourcePoint" />
             <mxPoint x="170" y="500" as="targetPoint" />
@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-15" value="" style="endArrow=classic;html=1;entryX=0.514;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-15" value="" style="endArrow=classic;html=1;entryX=0.514;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ImEEoc-BZ4plzD38c9AY-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="70" as="sourcePoint" />
             <mxPoint x="170" y="20" as="targetPoint" />
@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-3">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ImEEoc-BZ4plzD38c9AY-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="70" as="sourcePoint" />
             <mxPoint x="330" y="20" as="targetPoint" />
@@ -56,22 +56,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ImEEoc-BZ4plzD38c9AY-1" target="ImEEoc-BZ4plzD38c9AY-4">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ImEEoc-BZ4plzD38c9AY-1" target="ImEEoc-BZ4plzD38c9AY-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="380" as="sourcePoint" />
             <mxPoint x="600" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ImEEoc-BZ4plzD38c9AY-3">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ImEEoc-BZ4plzD38c9AY-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="380" as="sourcePoint" />
             <mxPoint x="410" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Yearly Bank Payment of Registration Fund&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Yearly Bank Payment of Registration Fund&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="180" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-22" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-22" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="70" as="sourcePoint" />
             <mxPoint x="840" y="180" as="targetPoint" />
@@ -80,16 +80,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-23" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-23" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1090" y="510" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-24" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Accountant&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-24" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Accountant&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1035" y="590" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-27" value="&lt;font size=&quot;3&quot;&gt;Validate the payment&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-27" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Validate the payment&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="380" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-28" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-27">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-28" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="ImEEoc-BZ4plzD38c9AY-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1090" y="540" as="sourcePoint" />
             <mxPoint x="1140" y="490" as="targetPoint" />
@@ -98,61 +98,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-27">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ImEEoc-BZ4plzD38c9AY-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="270" as="sourcePoint" />
             <mxPoint x="700" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-30" value="&lt;font style=&quot;font-size: 18px&quot;&gt;REGISTRY&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="580" width="110" height="110" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-30" value="&lt;font style=&quot;font-size: 24px&quot;&gt;REGISTRY&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="580" y="570" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-31" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-30">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-31" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ImEEoc-BZ4plzD38c9AY-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="550" as="sourcePoint" />
             <mxPoint x="460" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-32" value="" style="endArrow=classic;html=1;entryX=1.013;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-30">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-32" value="" style="endArrow=classic;html=1;entryX=1.013;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" target="ImEEoc-BZ4plzD38c9AY-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="540" as="sourcePoint" />
             <mxPoint x="1010" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;lt;&amp;lt;Photo taking process from and Editing &amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="110" width="370" height="20" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-33" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&amp;lt;&amp;lt;Photo taking process from and Editing &amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="110" width="480" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;lt;&amp;lt;Take form after standing in a Longer Line&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="140" width="390" height="20" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-34" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&amp;lt;&amp;lt;Take form after standing in a Longer Line&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="5" y="140" width="510" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;lt;&amp;lt;Bank line&amp;gt;&amp;gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="805" y="110" width="140" height="20" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-35" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&amp;lt;&amp;lt;Bank line&amp;gt;&amp;gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="785" y="110" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-37" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="840" width="30" height="60" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-37" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="740" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-38" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ID Card Operator&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry y="940" width="200" height="20" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-38" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ID Card Operator&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry y="840" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-39" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Checks the Registry and extract lengthy process to make a ID card&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="840" width="235" height="100" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-39" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Checks the Registry and extract lengthy process to make a ID card&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="690" width="225" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-40" value="" style="endArrow=classic;html=1;entryX=0.014;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-39">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-40" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="880" as="sourcePoint" />
-            <mxPoint x="170" y="830" as="targetPoint" />
+            <mxPoint x="110" y="760" as="sourcePoint" />
+            <mxPoint x="290" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-42" value="" style="endArrow=classic;html=1;entryX=0.426;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-30">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-42" value="" style="endArrow=classic;html=1;entryX=0.426;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" parent="1" target="ImEEoc-BZ4plzD38c9AY-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="889.5" as="sourcePoint" />
+            <mxPoint x="520" y="770" as="sourcePoint" />
             <mxPoint x="668.29" y="889.8" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="627" y="890" />
+              <mxPoint x="627" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-43" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-43" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="70" as="sourcePoint" />
             <mxPoint x="1160" y="170" as="targetPoint" />
@@ -161,35 +161,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-44" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Collects the final Id&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-44" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Collects the final Id&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="180" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-45" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="950" width="30" height="60" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-45" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="850" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-46" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Card Distributor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1040" width="180" height="20" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-46" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Card Distributor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="715" y="940" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-47" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-45">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-47" value="" style="endArrow=classic;html=1;" parent="1" target="ImEEoc-BZ4plzD38c9AY-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="395" y="940" as="sourcePoint" />
+            <mxPoint x="395" y="820" as="sourcePoint" />
             <mxPoint x="1189" y="940" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="395" y="980" />
+              <mxPoint x="395" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-50" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ImEEoc-BZ4plzD38c9AY-44">
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-50" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="ImEEoc-BZ4plzD38c9AY-44" edge="1" source="ImEEoc-BZ4plzD38c9AY-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="980" as="sourcePoint" />
             <mxPoint x="1210" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1160" y="980" />
+              <mxPoint x="1160" y="884" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ImEEoc-BZ4plzD38c9AY-51" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;lt;&amp;lt;Line for Card Id&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="110" width="180" height="20" as="geometry" />
+        <mxCell id="ImEEoc-BZ4plzD38c9AY-51" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&amp;lt;&amp;lt;Line for Card Id&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="110" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
