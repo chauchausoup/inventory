@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T08:28:29.169Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.5" etag="EmFmJm5P7b2icGmuZ1O_" type="github"><diagram id="i52iP2oFvH3BoiVSlh2F">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-25T08:41:41.983Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="4K4cU4ovbmq-zF2HlTZ2" version="13.7.5" type="github">
+  <diagram id="i52iP2oFvH3BoiVSlh2F" name="Page-1">
+    <mxGraphModel dx="1370" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9YAloJnzStIhm7PWI7on-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;UI with PDF form&amp;nbsp;&lt;br&gt;Can add:&amp;nbsp;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Photo&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Gov Id Scan copy&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Payment Amt from integrations&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Agreement to Terms and Conditions&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-5" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-6" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=-0.001;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9YAloJnzStIhm7PWI7on-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="193" as="sourcePoint" />
+            <mxPoint x="740" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Payment API&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Form builder engine&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-9" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" target="9YAloJnzStIhm7PWI7on-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="120" as="sourcePoint" />
+            <mxPoint x="700" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-10" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9YAloJnzStIhm7PWI7on-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="310" as="sourcePoint" />
+            <mxPoint x="520" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ML that checks and verifies the photo authenticity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Database server in the cloud&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="370" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-14" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9YAloJnzStIhm7PWI7on-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="635" y="295" as="sourcePoint" />
+            <mxPoint x="425" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-15" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9YAloJnzStIhm7PWI7on-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="150" as="sourcePoint" />
+            <mxPoint x="1050" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Generates ID as a GIF&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="90" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-17" value="Printing Partner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-18" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9YAloJnzStIhm7PWI7on-17" target="9YAloJnzStIhm7PWI7on-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="280" as="sourcePoint" />
+            <mxPoint x="1150" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-19" value="EMAIL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="310" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-20" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9YAloJnzStIhm7PWI7on-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="260" as="sourcePoint" />
+            <mxPoint x="690" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9YAloJnzStIhm7PWI7on-21" value="Delivers the ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="510" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
